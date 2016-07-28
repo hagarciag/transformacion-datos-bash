@@ -1,0 +1,221 @@
+CustomerID;Name;City;Email
+100;1ST NATL BANK;PEORIA;Annie.J.Hays@pookmail.com
+101;ADMIRAL APTS;HARRISBURG;Lester.E.Thomas@trashymail.com
+102;ALPHA MOBILE HOME PARK;EAST HAVEN;Tony.L.Gray@dodgit.com
+103;APP MAT;MAYAGUEZ;David.K.Engler@spambob.com
+104;ASST LIVING;ATTLEBORO;Ruben.B.Malcolm@pookmail.com
+105;BANDLOR BISTRO;NOBLESVILLE;Joyce.M.Brown@mailinator.com
+106;BENTAS FUNERAL HOME;WAYNE;Anthony.S.Zambrano@mailinator.com
+107;BLOCH & PENZ;CRYSTAL LAKE;Lucille.R.Bennett@mailinator.com
+108;BRIEN MCMAHON HS;MALVERN;Justin.C.Gonzalez@trashymail.com
+109;C & A ACCOUNTING;BETHEL;Paul.B.Mcghee@mailinator.com
+110;CASCON CHEESECAKE;WARRIOR;Ruth.J.Edmiston@mailinator.com
+111;CHICAGO JEFFERSON;SLOATSBURG;Heather.C.Bilski@pookmail.com
+112;CO SUPT BLDG AND GUARD;FORT THOMAS;Deanna.C.Martin@spambob.com
+113;CONTRACT TECHNICIAN;INA;Karen.B.Dunphy@mailinator.com
+114;DAIRY LAND;GRAND RAPIDS;Herminia.A.Padgett@spambob.com
+115;DOW;THOMASVILLE;Billy.F.Hood@spambob.com
+116;DRUG FREE AMERICA;CARY;Patrice.T.Mooney@pookmail.com
+117;ETHAN ALLEN SCHOOL;NORTHVILLE;Ralph.J.Bryant@trashymail.com
+118;FINNEY;JACKSONVILLE;Alphonse.A.Turner@pookmail.com
+119;GARDEN STATE NUTRITIONALS;TROUTMAN;Scott.R.Ramirez@spambob.com
+120;HAGER FURNITURE;SAINT PAUL;Lorena.C.Darling@spambob.com
+121;HERKIMER HIGH SCHOOL;MASON;Jessie.W.Nelson@spambob.com
+122;1ST NATL BANK;ONEONTA;Ila.J.Westgate@trashymail.com
+123;ADMIRAL APTS;DOTHAN;Melanie.A.Hall@trashymail.com
+124;ALPHA MOBILE HOME PARK;SOUTHPORT;Gregory.K.Foss@spambob.com
+125;APP MAT;CARBONDALE;Diane.P.Torres@mailinator.com
+126;ASST LIVING;JACKSONS GAP;Mike.J.Ingalls@trashymail.com
+127;BANDLOR BISTRO;MILLVILLE;Filiberto.L.Sawyer@mailinator.com
+128;BENTAS FUNERAL HOME;HOUSTON;Yolanda.W.Lynn@dodgit.com
+129;BLOCH & PENZ;RIGA;David.M.Rowe@dodgit.com
+130;BRIEN MCMAHON HS;TAMPA;John.T.Robertson@dodgit.com
+131;C & A ACCOUNTING;HOBOKEN;Robert.B.Casillas@pookmail.com
+132;CASCON CHEESECAKE;HOUSTON;Terrence.M.Mays@mailinator.com
+133;CHICAGO JEFFERSON;JACKSONVILLE;Sandra.W.Fredericks@dodgit.com
+134;CO SUPT BLDG AND GUARD;DALTON;Florence.C.Couture@dodgit.com
+135;CONTRACT TECHNICIAN;AUSTIN;Albert.C.Davis@pookmail.com
+136;DAIRY LAND;ELKHART;John.C.Mullen@mailinator.com
+137;DOW;SANTEE;Mary.J.Riley@dodgit.com
+138;DRUG FREE AMERICA;CAMUY;James.L.Bahr@mailinator.com
+139;ETHAN ALLEN SCHOOL;SEATTLE;Cecil.R.Risinger@mailinator.com
+140;FINNEY;SAINT CLOUD;Brett.C.Bloodworth@pookmail.com
+141;GARDEN STATE NUTRITIONALS;CEDAR RAPIDS;Edward.B.Smith@spambob.com
+142;HAGER FURNITURE;ATCO;Valerie.M.Arteaga@trashymail.com
+143;HERKIMER HIGH SCHOOL;BENICIA;Danny.F.Kimball@pookmail.com
+144;ADELAIDE APT;METROPOLIS;Catherine.A.Snyder@spambob.com
+145;ALOHA COMMUNITY CHURCH;RYE BEACH;Ada.F.Gregory@pookmail.com
+146;ANTILLAN COLLEGE;MAYAGUEZ;Denise.C.Yale@pookmail.com
+147;ASSN OF AMERICAN RAILROADS;LAJAS;John.L.Arline@pookmail.com
+148;BALDWIN ESTATES;SHELTON;Raymond.C.Walters@pookmail.com
+149;BENEFITS CLAIMS INC;LINDEN;Marcella.E.Joslin@pookmail.com
+150;BLDG COMPLEX;HOLDEN;Natalie.J.Snyder@mailinator.com
+151;BRIARWOOD TRAILER PARK;CANTON;Mavis.C.Rivera@spambob.com
+152;BUSINESS TECH CENTER;JERSEY CITY;Daniel.D.Boling@trashymail.com
+153;CASA DE ORO 5;WHITE PLAINS;Millard.S.Wright@trashymail.com
+154;CHESAPEAKE EAST CONDOS;WORCESTER;Donald.V.Haggard@pookmail.com
+155;CLSD ELECT GOPHER SATELLITE WC;NORTH WATERBORO;Richard.M.Williams@trashymail.com
+156;CONSOLIDATED PAPER;CENTERVILLE;Richard.E.Worsham@mailinator.com
+157;CRESTMONT APT;GRAND RAPIDS;Lorenzo.C.Deloach@mailinator.com
+158;DONIPHAN GRADE SCHOOL;AUSTIN;Theresa.W.Turnage@pookmail.com
+159;DRS FERRER AND DELCARMEN;ELMORE;Edith.N.Bromberg@dodgit.com
+160;ESPLAIER SQUARE;MINOT;Amanda.S.Insley@spambob.com
+161;FILLMORE NEAL CO;MAYAGUEZ;Claudia.A.Crum@mailinator.com
+162;GALM ELEM SCHOOL;BIRMINGHAM;Judy.J.Lee@dodgit.com
+163;H & R BLOCK;GEORGETOWN;Joseph.C.Aube@dodgit.com
+164;HEPHZIBAH ELEMENTARY SCH;HOUSTON;Alvin.J.Malone@mailinator.com
+165;ADELAIDE APT;GUAYNABO;Alejandro.N.Jean@pookmail.com
+166;ALOHA COMMUNITY CHURCH;CINNAMINSON;Latisha.T.Oliver@pookmail.com
+167;ANTILLAN COLLEGE;RIVERSIDE;Dale.M.Castellanos@spambob.com
+168;ASSN OF AMERICAN RAILROADS;DUTTON;Carla.M.Lemen@mailinator.com
+169;BALDWIN ESTATES;HEMPSTEAD;Anthony.T.Quillen@mailinator.com
+170;BENEFITS CLAIMS INC;CHINO;Brooke.D.Bowerman@spambob.com
+171;BLDG COMPLEX;HOBOKEN;Greg.V.May@dodgit.com
+172;BRIARWOOD TRAILER PARK;HOBOKEN;Louis.M.Chancy@trashymail.com
+173;BUSINESS TECH CENTER;DALLAS;Sharon.C.Baker@mailinator.com
+174;CASA DE ORO 5;CLINTON;Susan.M.Clow@dodgit.com
+175;CHESAPEAKE EAST CONDOS;SANDY;Jeffrey.J.Carroll@mailinator.com
+176;CLSD ELECT GOPHER SATELLITE WC;CEDAR RAPIDS;Robert.C.Rubin@mailinator.com
+177;CONSOLIDATED PAPER;MURRAYVILLE;Sonja.J.Felix@pookmail.com
+178;CRESTMONT APT;GLOVERSVILLE;Louis.S.Vaughn@trashymail.com
+179;DONIPHAN GRADE SCHOOL;OKLAHOMA CITY;John.A.Alley@mailinator.com
+180;DRS FERRER AND DELCARMEN;WILLOWBROOK;Emily.V.Davis@trashymail.com
+181;ESPLAIER SQUARE;HOMEWOOD;Alonzo.G.Collins@trashymail.com
+182;FILLMORE NEAL CO;SYRACUSE;Ruben.S.Pham@spambob.com
+183;GALM ELEM SCHOOL;ADAMS;Lorenzo.C.Newell@spambob.com
+184;H & R BLOCK;JERSEY CITY;Eugenia.C.Shaw@pookmail.com
+185;HEPHZIBAH ELEMENTARY SCH;EAST ORANGE;David.S.Lynch@trashymail.com
+186;1ST AMERICAN  BANK;LEADVILLE;Juan.H.Mccormick@spambob.com
+187;ADMINISTRATIVE INFORMATION SERVICES;SACO;Joseph.D.Gaines@dodgit.com
+188;ALPHA COATINGS;NYACK;Dorothy.A.Lynch@mailinator.com
+189;APARTMENTS GARDENS NSD OFFICE PINES;MAYAGUEZ;Dean.K.Berg@pookmail.com
+190;ASSOCIATES BLDG;MAPLE SHADE;Tyler.G.Ballinger@dodgit.com
+191;BAMBOO TRAILER PARK;GROVELAND;James.C.Hamel@trashymail.com
+192;BENSON PLZ APT;CAROL STREAM;Richard.S.Dickerson@trashymail.com
+193;BLISH & CAVANAGH;MELBOURNE;Lee.P.Gilmore@dodgit.com
+194;BRIDGESTONE II APARTMENTS;DOCENA;Kendra.B.Bailey@spambob.com
+195;BYNUM & SAND;LINCOLN;Teresa.J.Rivera@mailinator.com
+196;CASCADE BANK BLDG;FLORENCE;Todd.D.Graves@trashymail.com
+197;CHEZ ELLE BEAUTY SALON;PHILADELPHIA;Douglas.Y.Bailey@trashymail.com
+198;CO HOME IMPROVEMENT LUMBER;LONDON;Anthony.L.Lowder@spambob.com
+199;CONTINENTAL PIECE DYE WOR;DORA;Betty.J.Heard@pookmail.com
+200;DAILY & SON;MURPHY;Cindy.E.Smith@pookmail.com
+201;DOUGLAS CENTER;MILLERS CREEK;Donna.J.Olson@trashymail.com
+202;DRS P AND J RUOPP;PARKER CITY;Edmund.L.Howard@trashymail.com
+203;ESTEP BROTHER FUNERAL SVC;ALBANY;Ramon.S.Joseph@trashymail.com
+204;FINANCIAL WOMEN ASSOC;MORRISVILLE;Joshua.E.Mcbride@mailinator.com
+205;GARDEN GABLES;RAMSEUR;Joanna.J.Mueller@trashymail.com
+206;HAGAN CENTURY 21;SCRANTON;Darlene.A.Lilley@trashymail.com
+207;HERITAGE MEDICAL BLDG;SAN ANTONIO;Rebecca.L.Davis@trashymail.com
+208;1ST AMERICAN  BANK;HOT SPRINGS NATIONAL PARK;Bradley.G.Chase@dodgit.com
+209;ADMINISTRATIVE INFORMATION SERVICES;HARTFORD;Stan.M.Pope@spambob.com
+210;ALPHA COATINGS;IRVINGTON;Carlos.J.Bryson@pookmail.com
+211;APARTMENTS GARDENS NSD OFFICE PINES;RAMER;Kathleen.L.Cooley@dodgit.com
+212;ASSOCIATES BLDG;GRAHAM;Yu.I.Harris@spambob.com
+213;BAMBOO TRAILER PARK;BRAZEAU;Martha.R.Shearer@mailinator.com
+214;BENSON PLZ APT;SOCORRO;Davis.G.Phelan@dodgit.com
+215;BLISH & CAVANAGH;MECHANICSVLLE;Susan.J.Walters@spambob.com
+216;BRIDGESTONE II APARTMENTS;HOPKINS;David.L.Hatch@trashymail.com
+217;BYNUM & SAND;MANCHESTER;Helena.K.Abbott@trashymail.com
+218;CASCADE BANK BLDG;MANSFIELD;Fermin.E.Riggs@trashymail.com
+219;CHEZ ELLE BEAUTY SALON;GRAND RAPIDS;Michael.A.Neff@mailinator.com
+220;CO HOME IMPROVEMENT LUMBER;AZLE;Kevin.I.Salmons@spambob.com
+221;CONTINENTAL PIECE DYE WOR;BASTROP;Russell.B.Fish@pookmail.com
+222;DAILY & SON;HAWORTH;Edith.E.Malone@pookmail.com
+223;DOUGLAS CENTER;HENDERSONVLLE;Robin.W.Lindsey@pookmail.com
+224;DRS P AND J RUOPP;JERSEY CITY;Julie.D.Finley@spambob.com
+225;ESTEP BROTHER FUNERAL SVC;GRANBURY;Antonio.D.Smith@mailinator.com
+226;FINANCIAL WOMEN ASSOC;BRIGHTON;Clare.B.Ayers@trashymail.com
+227;GARDEN GABLES;BERKELEY;Tina.T.Jenkins@pookmail.com
+228;HAGAN CENTURY 21;SULLIGENT;Thomas.S.Rodriguez@pookmail.com
+229;HERITAGE MEDICAL BLDG;BRENTWOOD;Margaret.J.Norman@pookmail.com
+230;1URORA TRAILER CT;NEW HAVEN;Velma.S.Terry@trashymail.com
+231;ADMIRALTY BLDG;NEWPORT;Marie.G.Weber@trashymail.com
+232;ALPINE CHALET APTS;CARROLLTON;Linda.C.Lee@spambob.com
+233;APPLE BANK FOR SAVINGS;VEGA BAJA;Carol.P.House@pookmail.com
+234;ASSUNTA APTS;LINWOOD;Alyce.A.Leonard@pookmail.com
+235;BANK OF AMERICA;HAMPTON;John.J.Lechuga@trashymail.com
+236;BENTON MANOR APARTMENTS;ARGYLE;Douglas.K.Gonzalez@spambob.com
+237;BLUE LANTERN APTS;HOUSTON;Clyde.A.Trapp@mailinator.com
+238;BRIGADOON APTS;CLAYTON;Mary.J.Moore@trashymail.com
+239;C & C MILK BARN;LEBANON;Louie.D.Mccabe@trashymail.com
+240;CASEY INDUSTRIAL PARK;NEWARK;Gary.A.Donovan@dodgit.com
+241;CHICAGO TITLE;NASHVILLE;Stacey.L.Sweeney@spambob.com
+242;COALITION FOR FAMILY & CHILDREN;GREENWICH;Arturo.A.Walling@spambob.com
+243;CONV CENTER;CRANSTON;Edna.L.Sumrall@spambob.com
+244;DAKOTA MORTGAGE;NOTRE DAME;Domenica.C.Angeles@mailinator.com
+245;DOWN MANOR OFFICE;MAHASKA;Amanda.B.Wilkes@pookmail.com
+246;DUBLE  OHEARN INS;EUTAW;Elida.E.Craven@mailinator.com
+247;EUGENE M KOURI DDS;MERMENTAU;Eileen.R.Stacey@trashymail.com
+248;FIRE DEPT;HOUSTON;Thomas.J.Butler@trashymail.com
+249;GARFIELD COURTS;SPRINGVILLE;Tressa.C.Saxon@spambob.com
+250;HAIR LOFT SALON;BURR RIDGE;Rosemary.M.Marques@trashymail.com
+251;HERSHEY HERITAGE VILLAGE;PANTEGO;Carl.C.Otoole@spambob.com
+252;1URORA TRAILER CT;BELLEVILLE;Catherine.R.Pinson@dodgit.com
+253;ADMIRALTY BLDG;DEATSVILLE;Manuel.K.Milligan@trashymail.com
+254;ALPINE CHALET APTS;CORUNNA;Eunice.C.Sumler@mailinator.com
+255;APPLE BANK FOR SAVINGS;ASHEVILLE;Brittany.M.Vallejo@pookmail.com
+256;ASSUNTA APTS;JENKINTOWN;Paula.D.Martin@pookmail.com
+257;BANK OF AMERICA;HAMDEN;Jeff.D.Chesser@spambob.com
+258;BENTON MANOR APARTMENTS;UPPER MARLBORO;Joseph.J.Mosqueda@pookmail.com
+259;BLUE LANTERN APTS;MERKEL;Carlene.J.Rivers@mailinator.com
+260;BRIGADOON APTS;RISON;Tony.M.Atwell@mailinator.com
+261;C & C MILK BARN;HOBOKEN;William.V.Guerrero@dodgit.com
+262;CASEY INDUSTRIAL PARK;CORNING;Cheryl.J.Williams@pookmail.com
+263;CHICAGO TITLE;HUNTSVILLE;Kevin.D.Thompson@dodgit.com
+264;COALITION FOR FAMILY & CHILDREN;FORT WAYNE;Helen.V.Martin@trashymail.com
+265;CONV CENTER;KOUNTZE;Hoyt.V.Showers@trashymail.com
+266;DAKOTA MORTGAGE;MANCHESTER;Barbara.S.Hill@spambob.com
+267;DOWN MANOR OFFICE;ROGERS;Crystal.D.Pelaez@spambob.com
+268;DUBLE  OHEARN INS;GREENSBORO;Natalie.W.Allen@trashymail.com
+269;EUGENE M KOURI DDS;LINDEN;Robert.K.Killingsworth@dodgit.com
+270;FIRE DEPT;ROSLINDALE;Therese.L.Rogers@trashymail.com
+271;GARFIELD COURTS;GRAND RAPIDS;William.M.Sturgill@pookmail.com
+272;HAIR LOFT SALON;ATCO;Jason.M.Lefever@spambob.com
+273;HERSHEY HERITAGE VILLAGE;FERGUS FALLS;Cheryl.H.Beach@dodgit.com
+274;1ST UNITED METHDST CHURCH;DENVER;Fred.M.Murray@dodgit.com
+275;ADMIRAL WALK;PRINCETON;Kristine.J.Reed@trashymail.com
+276;ALPINE APTS;IRVINGTON;Elaine.M.Green@trashymail.com
+277;APPLE & APPLE;ARECIBO;Kaye.F.Sherwood@pookmail.com
+278;ASST TO CHANCELLOR;MILFORD;Willie.M.Hyland@spambob.com
+279;BANK MIDWEST;PINEVILLE;Harry.A.Dixon@trashymail.com
+280;BENTON DEAN INSURANCE;EVA;Ann.T.Levi@mailinator.com
+281;BLUE LAKES TR PK;COLONIA;Mechelle.P.Mccorkle@pookmail.com
+282;BRIERWOOD NORTH;BROOKSIDE;Rebecca.H.Harvey@trashymail.com
+283;C & C ELLIOTT OIL CO;HUDSON;Jennifer.K.Lewter@dodgit.com
+284;CASEY AMERICAN TITLE;LOWELLVILLE;Debra.G.Muniz@dodgit.com
+285;CHICAGO PLASTERING INST;NASHVILLE;Rosie.E.Thompson@dodgit.com
+286;COACH LITE APT;JEWETT CITY;Theresa.F.Mcfarlane@pookmail.com
+287;CONTROLLED ACCESS;HUNTSVILLE;Lindsay.S.Deal@dodgit.com
+288;DAKOTA MANOR;SAINT REGIS FALLS;Marian.G.Smith@mailinator.com
+289;DOW JONES COMPANY;DEMOREST;Charles.M.Flagg@dodgit.com
+290;DSR MKTG;GEORGETOWN;Walton.G.Littlejohn@trashymail.com
+291;EUDOWOOD TOWERS APARTMENT;LONEDELL;Alberto.G.Burleson@dodgit.com
+292;FINNEYTOWN APTS;HOUSTON;Troy.G.Moberg@mailinator.com
+293;GARDNER BLDG;DOVER;Marcellus.R.Meriwether@trashymail.com
+294;HAIMS BUZZEO & COMPANY PC;PILOT MOUNTAIN;Steven.P.Winchell@pookmail.com
+295;HERSH & CASSAGRANDE;HIALEAH;Edward.C.Creech@mailinator.com
+296;1ST UNITED METHDST CHURCH;CODEN;Curtis.K.Hodges@dodgit.com
+297;ADMIRAL WALK;SARDIS;Allen.L.Lawson@spambob.com
+298;ALPINE APTS;SAINT LOUIS;Earl.R.Bell@spambob.com
+299;APPLE & APPLE;GAINESVILLE;Lillian.A.Carman@mailinator.com
+300;ASST TO CHANCELLOR;ARLEE;Ashley.J.Irwin@pookmail.com
+301;BANK MIDWEST;BUDE;Juanita.G.Craighead@dodgit.com
+302;BENTON DEAN INSURANCE;AUSTIN;Robert.J.Sanderson@dodgit.com
+303;BLUE LAKES TR PK;TIOGA;Kathleen.D.Cheshire@mailinator.com
+304;BRIERWOOD NORTH;AMBROSE;Sara.M.Horton@pookmail.com
+305;C & C ELLIOTT OIL CO;HOBOKEN;Bernice.J.Tippett@spambob.com
+306;CASEY AMERICAN TITLE;YOUNGSTOWN;David.K.Ruiz@spambob.com
+307;CHICAGO PLASTERING INST;MACCLENNY;Christopher.M.Washington@dodgit.com
+308;COACH LITE APT;HUNTSVILLE;Linda.F.Kirby@trashymail.com
+309;CONTROLLED ACCESS;PIPESTONE;Bertha.J.Williamson@spambob.com
+310;DAKOTA MANOR;CRANSTON;Vincent.A.Bishop@spambob.com
+311;DOW JONES COMPANY;FORTUNA;Jeffrey.M.Ortiz@dodgit.com
+312;DSR MKTG;NORWALK;Kevin.P.Browne@trashymail.com
+313;EUDOWOOD TOWERS APARTMENT;GARLAND;Grace.R.Bellamy@dodgit.com
+314;FINNEYTOWN APTS;TINTON FALLS;Andre.S.Rudy@trashymail.com
+315;GARDNER BLDG;HUNTSVILLE;Beth.D.Haynes@dodgit.com
+316;HAIMS BUZZEO & COMPANY PC;ATCO;Mary.T.Johnson@mailinator.com
+317;HERSH & CASSAGRANDE;ITHACA;Frederick.C.Bell@spambob.com
+318;1ST ASSURANCE INC;HUNTINGTON;Peter.K.Lewis@pookmail.com
+319;ADMINISTRATIVE SECTION;MARION CENTER;Kathleen.E.Jamison@pookmail.com
