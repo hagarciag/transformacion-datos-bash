@@ -4,3 +4,5 @@
 *.4
 *.5
 *.ipynb_checkpoints*
+*log
+order(original)
