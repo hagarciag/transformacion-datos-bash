@@ -2,6 +2,7 @@
 (Notas de Clase)
 
 **Juan David Velásquez Henao**    
+jdvelasq@unal.edu.co  
 Universidad Nacional de Colombia, Sede Medellín  
 Facultad de Minas  
 Medellín, Colombia  
